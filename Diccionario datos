@@ -11,4 +11,4 @@ l5= datos.readline()
 l6= datos.readline()
 dic = {}
 dic['fecha']=l1[20:30]
-
+dic['hora']=l1[31:40]
