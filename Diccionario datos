@@ -10,5 +10,5 @@ l4= datos.readline()
 l5= datos.readline()
 l6= datos.readline()
 dic = {}
+dic['fecha']=l1[20:30]
 
-print l1 , l2 , l3 , l4 , l5 , l6
